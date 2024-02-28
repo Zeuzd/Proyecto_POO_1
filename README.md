@@ -1,11 +1,11 @@
 Creditos:
-/////////////////////////////////
+
 Marlon Daniel Rodriguez Caro
 Jhon Rayo Posada
 David Galvis Garcia
-/////////////////////////////////
+
  Historia:
- ////////////////////////////////
+ 
  En un antiguo y vasto desierto, la civilización de los Guardianes del Desierto ha prosperado durante siglos, protegiendo sus tierras y manteniendo
  la armonía en la región. Sin embargo, una civilización caída y olvidada, conocida como los Despertados, ha renacido de entre los muertos en las profundidades del desierto.
 Los Despertados, una vez una civilización poderosa y malévola, buscan venganza contra aquellos que los derrotaron en el pasado. Ahora, sedientos
@@ -20,4 +20,3 @@ antiguos sobre la historia de ambas civilizaciones y se enfrenta a desafíos cad
 Guardianes del Desierto contra la oscura amenaza de los Despertados.
 
 ¡Prepárate para una emocionante batalla en las ardientes arenas del desierto en "Guardianes del Desierto: Resurgimiento"!
-/////////////////////////////////
