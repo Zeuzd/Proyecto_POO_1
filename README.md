@@ -19,4 +19,4 @@ a las criaturas enemigas y evitar que lleguen a la ciudadela de los Guardianes. 
 antiguos sobre la historia de ambas civilizaciones y se enfrenta a desafíos cada vez más difíciles mientras lucha por la supervivencia de los 
 Guardianes del Desierto contra la oscura amenaza de los Despertados.
 
-¡Prepárate para una emocionante batalla en las ardientes arenas del desierto en "Guardianes del Desierto: Resurgimiento"!
+¡Prepárate para una emocionante batalla en las ardientes arenas del desierto en "Desert Guardians"!

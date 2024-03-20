@@ -138,6 +138,12 @@ EditorBuildSettings:
     path: Assets/TopDownEngine/ThirdParty/MoreMountains/MMTools/Demos/MMSceneLoading/MMSceneLoadingDemoSceneB.unity
     guid: 352d34cac2435634fb99618d19a3929c
   - enabled: 1
-    path: Assets/Juego/Scenes/GameOver.unity
+    path: Assets/Juego/Scenes/Inicio.unity
     guid: 465682a789b8d5f4098f2c4bc93a0484
+  - enabled: 1
+    path: Assets/Juego/Scenes/Creditos.unity
+    guid: 95c0652ac243f2a4aafb777ab7113dab
+  - enabled: 1
+    path: Assets/Juego/Scenes/Opciones.unity
+    guid: c0471b12c35ec0a4eb871085e56d8070
   m_configObjects: {}
